@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  background: #000;
+  position : reative;
+}
+.outer-container{
+  position: absolute;
+  top: 5%;
+  left: 13%;
+  width : 74%;
+  height : 90%;
+  min-height : 500px;
+  min-width: 900px;
+  background-color: #D1D1D1;
+  border : 1px solid #4D4834;
+}
+.inner-container{
+  position: relative;
+  margin : 13px;
+  width : auto;
+  height : auto;
+}
+.intro-container{
+  width : 40%;
+  background-color: #35BC7A;
+  height : 31.8%;
+  float : left;
+}
+.subject-container{
+  width : 20%;
+  height : 31.8%;
+}
+.profile-container{
+  background-color: #FF9E00;
+  margin-left: 40%;
+}
+.experience-container{
+  background-color: #1E8BC4;
+  float : left;
+}
+.education-container{
+  background-color: #F15A49;
+  float: left;
+}
+.hobbies-container{
+  background-color: #35BC7A;
+  margin-left: 40%;
+}
+.social-menu-container{
+  background-color: #F86925;
+  float : left;
+}
+.contact-container{
+  background-color: #1E8BC4;
+  float: left;
+}
+.portfolio-container{
+  background-color: #F86925;
+  margin-left: 40%;
+}
