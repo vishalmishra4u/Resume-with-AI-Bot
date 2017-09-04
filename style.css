@@ -33,15 +33,19 @@ html, body {
 }
 .right-side-container{
   /*border : 1px solid #4D4834;*/
+  display:table;
   width : 40%;
   height : 100%;
   float:right;
 }
-.data-container{
-  margin-left : 10px;
-  width : 97%;
+.carousel-inner{
   height : 100%;
-  background-color: #000000;
+}
+.item{
+  margin-left : 10px !important;
+  width : 97% !important;
+  height : 100% !important;
+  background-color: #999888 !important; 
 }
 .row{
   margin-left:0px !important;
